@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../MyPVI-GQKN"
+		},
+		{
+			"path": "../../MytelPayEU"
+		},
+		{
+			"path": "../demo"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "node_modules\\typescript\\lib"
+	}
+}
